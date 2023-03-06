@@ -19,8 +19,8 @@
     "create:crud": "node ./scripts/crud-creation.js"
   },
   "devDependencies": {
-    "eslint": "^8.22.0",
+    "eslint": "^8.35.0",
     "eslint-config-airbnb-base": "^15.0.0",
-    "eslint-plugin-import": "^2.26.0"
+    "eslint-plugin-import": "^2.27.5"
   }
 }
